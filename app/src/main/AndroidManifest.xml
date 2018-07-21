@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.kasturi.utopiafinal">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/utopia"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".WelcomePage" />
+        <activity android:name=".Category_menu" />
+        <activity android:name=".CustomAdapter" />
+        <activity android:name=".SingleItem" />
+        <activity android:name=".MensTopwear" />
+        <activity android:name=".MensFootwear" />
+        <activity android:name=".MensBottomwear" />
+        <activity android:name=".MensAccessories" />
+        <activity android:name=".WomensTopwear" />
+        <activity android:name=".WomensBottomwear" />
+        <activity android:name=".WomensFootwear" />
+        <activity android:name=".WomensAccessories" />
+        <activity android:name=".GirlsClothing" />
+        <activity android:name=".BoysClothing" />
+        <activity android:name=".LastPage" />
+        <activity android:name=".AddressPage"></activity>
+    </application>
+
+</manifest>

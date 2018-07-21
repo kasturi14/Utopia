@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hdwall"
+    tools:context=".WelcomePage">
+
+    <TextView
+        android:id="@+id/etwelcome"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="75dp"
+        android:gravity="center"
+        android:text="@string/welcome"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:textSize="70dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/etmsg"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="144dp"
+        android:gravity="center"
+        android:text="@string/login_success"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:layout_alignParentLeft="true" />
+
+    <ImageButton
+        android:id="@+id/ethome"
+        android:layout_width="55dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="11dp"
+        android:layout_marginTop="14dp"
+        android:background="@color/lightblue"
+        android:fadingEdge="horizontal|vertical"
+        android:src="@drawable/ic_action_home" />
+
+    <Button
+        android:id="@+id/etbhome"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="142dp"
+        android:background="@color/lightblue"
+        android:fadingEdge="horizontal|vertical"
+        android:text="@string/continue_shop"
+        android:textAllCaps="true"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:textSize="17dp"/>
+
+
+</RelativeLayout>

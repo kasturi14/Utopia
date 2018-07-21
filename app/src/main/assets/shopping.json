@@ -1,0 +1,282 @@
+{
+    "Men_topwear": [
+      {
+        "image": "https://images.unsplash.com/photo-1519758340474-40fa8cba6584?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d5be70db4a19568ef19295bb59b9693d&auto=format&fit=crop&w=750&q=80.jpg",
+        "name": "Denim Jacket",
+        "price": "\u20B9 2000"
+
+      },
+      {
+        "image": "https://img0.junaroad.com/uiproducts/14923962/std_300_0-1520945958.jpg",
+        "name": "Casual Sweatshirt",
+        "price": "\u20B9 1500"
+
+      },
+      {
+        "image": "https://data.whicdn.com/images/314968264/large.jpg",
+        "name": "Striped Shirt",
+        "price": "\u20B9 1200"
+
+      },
+      {
+        "image": "http://images4.fanpop.com/image/photos/18900000/-Hyun-Joong-kim-hyun-joong-18977888-375-500.jpg",
+        "name": "Red Jacket",
+        "price": "\u20B9 1999"
+
+      },
+      {
+        "image": "https://i0.wp.com/farm8.staticflickr.com/7303/13105324814_c16f079e2b_b.jpg",
+        "name": "Casual T",
+        "price": "\u20B9 799"
+
+      }
+    ],
+    "Men_bottomwear": [
+      {
+        "name": "Track Pants",
+        "price": "\u20B9 1299",
+        "image": "https://i.pinimg.com/564x/00/3b/dc/003bdc0ed0272bb99f5cb2e0a96b56ad.jpg"
+      },
+      {
+        "name": "Cargo shorts",
+        "price": "\u20B9 999",
+        "image": "https://i.pinimg.com/564x/be/77/8f/be778fc364e4555bbef422864686fdc9.jpg"
+      },
+      {
+        "name": "Denim Joggers",
+        "price": "\u20B9 999",
+        "image": "https://ae01.alicdn.com/kf/HTB1TCUkIpXXXXcoXpXXq6xXFXXXc/White-Jeans-For-Men-Denim-Mens-Jeans-Cotton-Denim-White-Jogger-Pants-England-Style-Ankle-Length.jpg"
+      },
+      {
+        "name": "Destroyed Jeans",
+        "price": "\u20B9 899",
+        "image": "https://i.pinimg.com/564x/9d/7f/03/9d7f039c5bb1493bef86f8b3500493db.jpg"
+      },
+      {
+        "name": "Black Trousers",
+        "price": "\u20B9 1499",
+        "image": "https://i.pinimg.com/564x/fb/85/76/fb857651c68d19f1c4fc6c072b83dc92.jpg"
+      }
+    ],
+    "Men_footwear": [
+      {
+        "name": "Striped Socks",
+        "price": "\u20B9 540",
+        "image": "https://images.pexels.com/photos/251454/pexels-photo-251454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.jpg"
+      },
+      {
+        "name": "Black Loafers",
+        "price": "\u20B9 2670",
+        "image": "https://data.whicdn.com/images/314307037/large.jpg"
+      },
+      {
+        "name": "Sports Shoes",
+        "price": "\u20B9 2300",
+        "image": "https://data.whicdn.com/images/314475405/large.jpg"
+      },
+      {
+        "name": "Black Sandals",
+        "price": "\u20B9 1999",
+        "image": "http://www.colorfulthebox.com/upfiles/main/New-Summer-Wear-Resistant-Beach-Shoes-Men-s-Sandals-Rome-Korean-Version-3257.jpg"
+      },
+      {
+        "name": "Leather Boots",
+        "price": "\u20B9 3999",
+        "image": "https://data.whicdn.com/images/312182742/large.jpg"
+      }
+    ],
+    "Men_accessories": [
+      {
+        "name": "Round Dial Watch",
+        "price": "\u20B9 2999",
+        "image": "https://i.pinimg.com/564x/9b/93/9e/9b939e274cd9cae9ae2ce3e3ce3d442f.jpg"
+      },
+      {
+        "name": "Black Sunglasses",
+        "price": "\u20B9 999",
+        "image": "https://data.whicdn.com/images/314627305/large.jpg"
+      },
+      {
+        "name": "Leather Belt",
+        "price": "\u20B9 1200",
+        "image": "https://data.whicdn.com/images/310138421/large.jpg"
+      },
+      {
+        "name": "Fancy Wallet",
+        "price": "\u20B9 1999",
+        "image": "https://i.pinimg.com/736x/6d/e5/52/6de552c173d1cb2e38fddc7050e73e66--lee-min-ho-red.jpg"
+      },
+      {
+        "name": "Blue Tie",
+        "price": "\u20B9 1199",
+        "image": "https://img.shopstyle-cdn.com/pim/87/61/8761716a3676ae3db748f7aa51e9d00d_xlarge.jpg"
+      }
+    ],
+    "Boys_clothing": [
+      {
+        "name": "Casual T",
+        "price": "\u20B9 499",
+        "image": "https://data.whicdn.com/images/302926692/large.jpg"
+      },
+      {
+        "name": "Vacation T-Shirt",
+        "price": "\u20B9 899",
+        "image": "https://www.hatley.com/media/wysiwyg/DepartmentPages/201804/HAT/boys/1280-Boys_1.jpg"
+      },
+      {
+        "name": "Rad Like Dad",
+        "price": "\u20B9 699",
+        "image": "https://i.pinimg.com/564x/e1/c9/f1/e1c9f18b954302f9ac063cb2008542bd.jpg"
+      },
+      {
+        "name": "Winter Jacket",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/274700483/large.jpg"
+      },
+      {
+        "name": "Little Star Set",
+        "price": "\u20B9 3999",
+        "image": "https://data.whicdn.com/images/281580535/large.jpg"
+      }
+    ],
+    "Womens_topwear": [
+      {
+        "name": "Collar Sleeve Casual Shirt",
+        "price": "\u20B9 1199",
+        "image": "https://i.pinimg.com/564x/86/c2/c0/86c2c05b0d0dec87aee08dcd1659ac70.jpg"
+      },
+      {
+        "name": "Striped Crop Top",
+        "price": "\u20B9 1350",
+        "image": "https://data.whicdn.com/images/315093277/large.jpg"
+      },
+      {
+        "name": "Black Tradional Kurti",
+        "price": "\u20B9 1999",
+        "image": "https://i.pinimg.com/564x/b3/a9/30/b3a930ddee564a1e5ae431e22a150a70.jpg"
+      },
+      {
+        "name": "Striped Shirt",
+        "price": "\u20B9 999",
+        "image": " https://data.whicdn.com/images/297296426/large.jpg"
+      },
+      {
+        "name": "Oversized Hoodie",
+        "price": "\u20B9 1499",
+        "image": "https://data.whicdn.com/images/274542748/large.jpg"
+      },
+      {
+        "name": "Leather Jacket",
+        "price": "\u20B9 4999",
+        "image": "https://data.whicdn.com/images/315106305/large.jpg"
+      }
+    ],
+    "Womens_bottomwear": [
+      {
+        "name": "SkinFit Jeans",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/313031710/large.jpg"
+      },
+      {
+        "name": "Vintage Jeans",
+        "price": "\u20B9 999",
+        "image": "https://data.whicdn.com/images/315104816/large.jpg"
+      },
+      {
+        "name": "Faded Shorts",
+        "price": "\u20B9 1250",
+        "image": "https://data.whicdn.com/images/305841139/large.jpg"
+      },
+      {
+        "name": "Printed Jeans",
+        "price": "\u20B9 1150",
+        "image": "https://data.whicdn.com/images/310801434/large.jpg"
+      },
+      {
+        "name": "Checked Trousers",
+        "price": "\u20B9 1170",
+        "image": "https://data.whicdn.com/images/314937918/large.jpg"
+      }
+    ],
+    "Womens_footwear": [
+      {
+        "name": "High Heals",
+        "price": "\u20B9 1499",
+        "image": "https://cdn.pixabay.com/photo/2013/11/16/03/41/shoes-211424_960_720.jpg"
+      },
+      {
+        "name": "White Sneakers",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/315102637/large.jpg"
+      },
+      {
+        "name": "Round Toe Sneakers",
+        "price": "\u20B9 1599",
+        "image": "https://i.pinimg.com/564x/fe/75/48/fe75487c5dd37da100cf1dbce8945ce2.jpg"
+      },
+      {
+        "name": "Velvet Boots",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/274366130/large.jpg"
+      },
+      {
+        "name": "Black Heels",
+        "price": "\u20B9 3499",
+        "image": "https://data.whicdn.com/images/314878631/large.jpg"
+      }
+    ],
+    "Womens_accessories": [
+      {
+        "name": "Clear Frame Cat Eye Glasses",
+        "price": "\u20B9 1399",
+        "image": "https://data.whicdn.com/images/315068576/large.jpg"
+      },
+      {
+        "name": "Old School Bag",
+        "price": "\u20B9 1289",
+        "image": "https://data.whicdn.com/images/314971711/large.jpg"
+      },
+      {
+        "name": "Vintage Belt",
+        "price": "\u20B9 899",
+        "image": "https://data.whicdn.com/images/314960034/large.jpg"
+      },
+      {
+        "name": "Studded Bracelet",
+        "price": "\u20B9 1899",
+        "image": "https://data.whicdn.com/images/314900407/large.jpg"
+      },
+      {
+        "name": "Watch",
+        "price": "\u20B9 1899",
+        "image": "https://data.whicdn.com/images/314775918/large.jpg"
+      }
+    ],
+    "Girls_clothing": [
+      {
+        "name": "Striped Jumpsuit",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/313446083/large.jpg"
+      },
+      {
+        "name": "Crop Top Fashion Set",
+        "price": "\u20B9 1499",
+        "image": "https://data.whicdn.com/images/311256854/large.jpg"
+      },
+      {
+        "name": "Printed Frock",
+        "price": "\u20B9 1199",
+        "image": "https://data.whicdn.com/images/311028546/large.jpg"
+      },
+      {
+        "name": "Floal Casual Set",
+        "price": "\u20B9 1199",
+        "image": "https://data.whicdn.com/images/294169696/large.jpg"
+      },
+      {
+        "name": "Whimsy Set",
+        "price": "\u20B9 1999",
+        "image": "https://data.whicdn.com/images/276827025/large.jpg"
+      }
+    ]
+}
