@@ -8,12 +8,18 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.RadioButton;
-import android.widget.TextView;
+import android.widget.Toast;
 
 public class AddressPage extends AppCompatActivity {
 
     private ImageButton back;
     private Button checkout;
+    private EditText pin;
+    private EditText town;
+    private EditText city;
+    private EditText state1;
+    private EditText name;
+    private EditText mobile;
 
 
     @Override
@@ -33,9 +39,63 @@ public class AddressPage extends AppCompatActivity {
         checkout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                open_lastPage();
+                register();
             }
         });
+
+        pin = (EditText) findViewById(R.id.pincode);
+        town = (EditText) findViewById(R.id.locality);
+        city = (EditText) findViewById(R.id.city);
+        state1 = (EditText) findViewById(R.id.state);
+        name = (EditText) findViewById(R.id.name);
+        mobile = (EditText) findViewById(R.id.mobile);
+    }
+    public void register()
+    {
+        if (!validate())
+        {
+            Toast.makeText(this, "Fields need to be filled properly.", Toast.LENGTH_SHORT).show();
+        }
+        else
+        {
+            open_lastPage();
+        }
+    }
+
+    public boolean validate()
+    {
+        boolean valid =true;
+        if(pin.length()<6)
+        {
+            pin.setError("Minimum 6 characters required.");
+            valid=false;
+        }
+        if(town.length()==0)
+        {
+            town.setError("The field cannot be empty");
+            valid = false;
+        }
+        if(city.length()==0)
+        {
+            city.setError("The field cannot be empty");
+            valid=false;
+        }
+        if(state1.length()==0)
+        {
+            state1.setError("The field cannot be empty");
+            valid=false;
+        }
+        if(name.length()==0)
+        {
+            name.setError("The field cannot be empty");
+            valid=false;
+        }
+        if( mobile.length()!=10)
+        {
+            mobile.setError("10 characters allowed");
+            valid = false;
+        }
+        return valid;
     }
     private void open_lastPage()
     {
